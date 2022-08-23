@@ -1,2 +1,2 @@
 # usegit
-just learning
+just learning the software and gonna use it
